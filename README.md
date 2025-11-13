@@ -493,3 +493,9 @@ async def main():
 
 asyncio.run(main())
 ```
+
+## Goodbye
+
+Thanks for exploring Deep Agents! We hope this library helps you build powerful, long-horizon agents for your applications. If you have questions, feedback, or want to contribute, please visit our [GitHub repository](https://github.com/happydl/deepagents) or check out the [documentation](https://docs.langchain.com/oss/python/deepagents/overview).
+
+Happy building! 🚀
